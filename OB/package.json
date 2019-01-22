@@ -1,0 +1,11 @@
+{
+  "name": "Indhu_miniProject",
+  "version": "1.0.0",
+  "dependencies": {
+    "dom": "0.0.3",
+    "dom-parser": "latest",
+    "parser": "^0.1.4",
+    "sync-request": "^6.0.0",
+    "xml2js": "^0.4.19"
+  }
+}
